@@ -20,6 +20,12 @@ body{
 .topbar ul li.active{
     font-weight: 600;
     color:#E64A19;
+    cursor: pointer;
+}
+
+.topbar ul li:hover{
+    color:#E64A19;
+    cursor: pointer;
 }
 
 .topbar h1{
@@ -47,7 +53,7 @@ body{
 }
 
 .bannerhead{
-    margin-top: 250px;
+    margin-top: 220px;
     text-align: center;
 }
 
@@ -55,7 +61,7 @@ body{
     font-size: 48px;
     font-weight: 600;
     color: #fff;
-    margin-bottom: 55px;
+    margin-bottom: 45px;
 }
 
 .bh-button{
@@ -74,4 +80,41 @@ body{
     border: 2px solid rgba(255, 255, 255, 0.7);
     text-decoration: none;
 }
+
+
+/** Sections **/
+.section{
+    padding-top:60px;
+    /*padding-bottom: 60px;*/
+}
+
+.section h1.section-title{
+    font-size: 28px;
+    line-height: 60px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.section p.section-description{
+    color: #666;
+    font-weight: 300 !important;
+    line-height: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
