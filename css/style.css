@@ -4,6 +4,10 @@ body{
     font-family: "Open Sans", sans-serif;
 }
 
+.pt40{
+    padding-top:40px;
+}
+
 .topbar{
     background-color: #fff;
 }
@@ -98,7 +102,7 @@ body{
 .section p.section-description{
     color: #666;
     font-weight: 300 !important;
-    line-height: 20px;
+    line-height: 36px;
 }
 
 .parallaxtext{
