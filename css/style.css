@@ -126,7 +126,10 @@ p.section-description{
 }
 
 #parallax2{
-    min-height: 1000px;
+    min-height: 470px;
+    background-image: url(../img/parallax1.jpg);
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 /** services **/
