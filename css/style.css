@@ -192,6 +192,28 @@ p.section-description{
     margin-top: 40px;
 }
 
+/** experiences **/
+.exp{
+    margin-top:100px;
+}
+.exp-number{
+    width: 150px;
+    height:150px;
+    border-radius: 75px;
+    border: 5px solid #666;
+    margin:auto;
+    text-align: center;
+    line-height: 150px;
+    font-size: 55px;
+    color: #666;
+}
+
+.exp-heading{
+    margin-top:30px;
+    font-size: 30px;
+    font-weight: 600;
+}
+
 
 
 
