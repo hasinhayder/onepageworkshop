@@ -110,11 +110,11 @@ body{
     color: #fff;
     font-weight: 400;
     line-height: 40px;
-    margin-top:40px;
+    margin-top:90px;
 }
 
 #parallax1{
-    min-height: 350px;
+    min-height: 470px;
     background-image: url(../img/parallax1.jpg);
     background-attachment: fixed;
     background-size: cover;
@@ -125,11 +125,32 @@ body{
     min-height: 1000px;
 }
 
+/** services **/
 
+.services{
+    margin-top: 30px;
+}
 
+.service{
+    margin-top:70px;
+}
 
+.service i{
+    color: #E64A19;
+}
+.service h2{
+    margin-top:40px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
 
-
+.service p{
+    font-size: 16px;
+    line-height: 30px;
+    color: #555;
+}
 
 
 
